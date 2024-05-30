@@ -8,5 +8,5 @@ This plugin has been created to facilitate the integration of PlayNANOO Google S
 For detailed integration instructions, please refer to the [PlayNANOO Guide](https://document.playnanoo.com/plugin/account/google/account-google-signin).  
    
 Original Source.  
-[https://github.com/google/play-unity-plugins](https://github.com/google/play-unity-plugins) 
-[https://github.com/lukezbihlyj/google-signin-unity](https://github.com/lukezbihlyj/google-signin-unity)
+[https://github.com/google/play-unity-plugins](https://github.com/google/play-unity-plugins)   
+[https://github.com/lukezbihlyj/google-signin-unity](https://github.com/lukezbihlyj/google-signin-unity)  
