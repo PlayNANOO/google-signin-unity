@@ -1,4 +1,4 @@
-# Google Signin Unity Plugin in PlayNANOO
+# Google Signin Unity Plugin 
 _Copyright (c) 2017 Google Inc. All rights reserved._
 
 ## Overview 
